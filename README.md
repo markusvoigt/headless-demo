@@ -1,4 +1,4 @@
-This project uses [Next.js](https://nextjs.org/) together with [TailwindCSS](https://tailwindcss.com) to build a tiny e-commerce storefront on top of Shopiy. 
+This project uses [Next.js](https://nextjs.org/) together with [TailwindCSS](https://tailwindcss.com) to build a tiny e-commerce storefront on top of Shopify. 
 
 ## Getting Started
 
